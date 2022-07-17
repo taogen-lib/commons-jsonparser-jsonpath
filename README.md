@@ -1,4 +1,4 @@
-# jsonparser-jsonpath
+# Taogen Easy JsonPath
 
 Dependency this library in Maven Project
 
